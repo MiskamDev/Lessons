@@ -10,7 +10,7 @@ print(type(gpa))  # Float
 print(type(student)) # Boolean
 
 
-age = float(age)
+age = float(age)  # Integer to Float
 
 print(age)
 print(type(age))
@@ -24,9 +24,9 @@ print(type(student))
 
 
 # Implicit
-x = 2
-y = 2.0
+x = 2      # Integer
+y = 2.0    # Float
 
-x = x / y
+x = x / y  # Implicit type casting
 
 print(x)  # Float

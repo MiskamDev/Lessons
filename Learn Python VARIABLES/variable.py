@@ -7,7 +7,7 @@ email = "bro123@gmail.com"
 age = 25
 quantity = 3
 
-# Float
+# Float 
 price = 10.99
 gpa  = 3.2
 distance = 5.5
